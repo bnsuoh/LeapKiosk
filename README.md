@@ -1,2 +1,2 @@
 # Leap Kiosk
-Leap Motion controlled gaming kiosk with Tetris, Flappy Bird and Snake games
+Leap Motion controlled gaming kiosk with Pong and Flappy Bird games
